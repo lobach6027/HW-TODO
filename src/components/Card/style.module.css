@@ -1,0 +1,16 @@
+.descr{
+    padding: 10px;
+    font-size: 22px;
+    position: relative;
+    
+}
+.dellButton{
+    opacity:0;
+    position: absolute;
+    top: 0;
+
+}
+.descr:hover .dellButton{
+    opacity: 1;
+    cursor: pointer;
+}

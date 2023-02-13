@@ -1,0 +1,94 @@
+.noTasksBlock {
+  border: 1px solid black;
+  max-width: 80%;
+  margin: 20px auto ;
+  padding: 20px;
+  font-size: 22px;
+  text-align: center;
+
+}
+
+/*.container {
+  display: flex;
+  max-width: 70%;
+  padding: 20px;
+  margin: 20px auto 0;
+  flex-direction: column;
+  gap: 20px;
+  height: 80vh;
+}
+.hideContainer {
+  display: none;
+}
+.day {
+  width: 100%;
+  border: 1px solid black;
+  display: flex;
+  align-items: center;
+}
+.title {
+  background-color: rgb(222, 173, 173);
+  width: 15%;
+  display: flex;
+  box-sizing: border-box;
+  justify-content: center;
+  align-items: center;
+  font-size: 18px;
+  height: 100%;
+  border-right: 1px solid black;
+}
+.tasks:hover ~ .dellTasksButton {
+  display: inline;
+}
+.dellTasksButton {
+  display: none;
+}
+.deleteTasks button {
+  display: none;
+}
+
+.tasks span:hover .dellButton {
+  display: inline;
+  cursor: pointer;
+}
+
+.dellButton {
+  display: none;
+}
+.tasks {
+  width: 85%;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  font-size: 18px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 10px;
+ 
+}
+
+.tasks span {
+  padding: 5px;
+}
+
+.lowPriority {
+  background: rgb(152, 243, 152);
+}
+.highPriority {
+  background-color: rgb(244, 108, 108);
+}
+
+.deleteTasks {
+  width: 5%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 5px;
+  box-sizing: border-box;
+}
+.task{
+  width: 100%;
+ 
+}*/
